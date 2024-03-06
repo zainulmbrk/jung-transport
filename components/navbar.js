@@ -86,7 +86,7 @@ const Navbar = () => {
                           {item.title}
                       </Link>
                     ))}
-                    <Link href="https://wa.me/081212929511" className="flex items-center space-x-2 w-full px-6 py-2 mt-3 text-center text-white bg-indigo-600 rounded-md lg:ml-5">         
+                    <Link href="https://wa.me/087839761812" className="flex items-center space-x-2 w-full px-6 py-2 mt-3 text-center text-white bg-indigo-600 rounded-md lg:ml-5">         
                       <FaWhatsapp />
                       <p>chat</p>
                     </Link>
@@ -111,7 +111,7 @@ const Navbar = () => {
         </div>
 
         <div className="hidden mr-3 space-x-4 lg:flex nav__item">
-          <Link href="https://wa.me/081212929511" target="_blank" className="flex items-center space-x-2 px-6 py-2 text-white bg-indigo-600 rounded-md md:ml-5">
+          <Link href="https://wa.me/087839761812" target="_blank" className="flex items-center space-x-2 px-6 py-2 text-white bg-indigo-600 rounded-md md:ml-5">
             <FaWhatsapp />
             <p>chat</p>
           </Link>
