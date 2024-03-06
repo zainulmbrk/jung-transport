@@ -1,0 +1,215 @@
+[
+  {
+    "title":"3 Hari 2 Malam",
+    "periode":"3",
+    "image": "/img/paket-1.jpg",
+    "price":2500000,
+    "itinerary":[
+      {
+        "day": 1,
+        "destination": "Penjemputan Bandara, Makan, Hotel Check in",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 2,
+        "destination": "Gili Trawangan, Gili Meno, Gili Air",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 3,
+        "destination": "Kuta, Tanjung Aan, Bukit Merese, Selong Belanak, Antar Bandara",
+        "description": "Belum ada deskripsi"
+      }
+    ]
+  },
+  {
+    "title":"4 Hari 3 Malam",
+    "periode":"4",
+    "image": "/img/paket-2.jpg",
+    "price":3000000,
+    "itinerary":[
+      {
+        "day": 1,
+        "destination": "Penjemputan Bandara, Makan, Hotel Check in",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 2,
+        "destination": "Gili Trawangan, Gili Meno, Gili Air",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 3,
+        "destination": "Kuta, Tanjung Aan, Bukit Merese, Selong Belanak, Antar Bandara",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 4,
+        "destination": "Kuta, Tanjung Aan, Bukit Merese, Selong Belanak, Antar Bandara",
+        "description": "Belum ada deskripsi"
+      }
+    ]
+  },
+  {
+    "title":"5 Hari 4 Malam",
+    "periode":"5",
+    "image": "/img/paket-3.jpg",
+    "price":3000000,
+    "itinerary":[
+      {
+        "day": 1,
+        "destination": "Penjemputan Bandara, Makan, Hotel Check in",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 2,
+        "destination": "Gili Trawangan, Gili Meno, Gili Air",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 3,
+        "destination": "Kuta, Tanjung Aan, Bukit Merese, Selong Belanak, Antar Bandara",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 4,
+        "destination": "Kuta, Tanjung Aan, Bukit Merese, Selong Belanak, Antar Bandara",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 5,
+        "destination": "Kuta, Tanjung Aan, Bukit Merese, Selong Belanak, Antar Bandara",
+        "description": "Belum ada deskripsi"
+      }
+    ]
+  },
+  {
+    "title":"6 Hari 5 Malam",
+    "periode":"6",
+    "image": "/img/paket-4.jpg",
+    "price":3500000,
+    "itinerary":[
+      {
+        "day": 1,
+        "destination": "Penjemputan Bandara, Makan, Hotel Check in",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 2,
+        "destination": "Gili Trawangan, Gili Meno, Gili Air",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 3,
+        "destination": "Kuta, Tanjung Aan, Bukit Merese, Selong Belanak, Antar Bandara",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 4,
+        "destination": "Kuta, Tanjung Aan, Bukit Merese, Selong Belanak, Antar Bandara",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 5,
+        "destination": "Kuta, Tanjung Aan, Bukit Merese, Selong Belanak, Antar Bandara",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 6,
+        "destination": "Kuta, Tanjung Aan, Bukit Merese, Selong Belanak, Antar Bandara",
+        "description": "Belum ada deskripsi"
+      }
+    ]
+  },
+  {
+    "title":"7 Hari 6 Malam",
+    "periode":"7",
+    "image": "/img/paket-5.jpg",
+    "price":4000000,
+    "itinerary":[
+      {
+        "day": 1,
+        "destination": "Penjemputan Bandara, Makan, Hotel Check in",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 2,
+        "destination": "Gili Trawangan, Gili Meno, Gili Air",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 3,
+        "destination": "Kuta, Tanjung Aan, Bukit Merese, Selong Belanak, Antar Bandara",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 4,
+        "destination": "Kuta, Tanjung Aan, Bukit Merese, Selong Belanak, Antar Bandara",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 5,
+        "destination": "Kuta, Tanjung Aan, Bukit Merese, Selong Belanak, Antar Bandara",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 6,
+        "destination": "Kuta, Tanjung Aan, Bukit Merese, Selong Belanak, Antar Bandara",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 7,
+        "destination": "Kuta, Tanjung Aan, Bukit Merese, Selong Belanak, Antar Bandara",
+        "description": "Belum ada deskripsi"
+      }
+    ]
+  },
+  {
+    "title":"8 Hari 7 Malam",
+    "periode":"8",
+    "image": "/img/paket-6.jpg",
+    "price":4500000,
+    "itinerary":[
+      {
+        "day": 1,
+        "destination": "Penjemputan Bandara, Makan, Hotel Check in",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 2,
+        "destination": "Gili Trawangan, Gili Meno, Gili Air",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 3,
+        "destination": "Kuta, Tanjung Aan, Bukit Merese, Selong Belanak, Antar Bandara",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 4,
+        "destination": "Kuta, Tanjung Aan, Bukit Merese, Selong Belanak, Antar Bandara",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 5,
+        "destination": "Kuta, Tanjung Aan, Bukit Merese, Selong Belanak, Antar Bandara",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 6,
+        "destination": "Kuta, Tanjung Aan, Bukit Merese, Selong Belanak, Antar Bandara",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 7,
+        "destination": "Kuta, Tanjung Aan, Bukit Merese, Selong Belanak, Antar Bandara",
+        "description": "Belum ada deskripsi"
+      },
+      {
+        "day": 8,
+        "destination": "Kuta, Tanjung Aan, Bukit Merese, Selong Belanak, Antar Bandara",
+        "description": "Belum ada deskripsi"
+      }
+    ]
+  }
+]

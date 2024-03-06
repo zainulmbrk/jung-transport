@@ -1,0 +1,326 @@
+[
+  {
+    "merk":"Honda",
+    "title":"Beat",
+    "image": "/img/beat.png",
+    "extend":[
+      {
+        "day": 1,
+        "price": 100000,
+        "duration": 24
+      },
+      {
+        "day": 3,
+        "price": 80000,
+        "duration": 24
+      },
+      {
+        "day": 7,
+        "price": 75000,
+        "duration": 24
+      },
+      {
+        "day": 30,
+        "price": 1400000,
+        "duration": 0
+      }      
+    ]
+  },
+  {
+    "merk":"Honda",
+    "title":"Scoopy",
+    "image": "/img/scoopy.png",
+    "extend":[
+      {
+        "day": 1,
+        "price": 100000,
+        "duration": 24
+      },
+      {
+        "day": 3,
+        "price": 90000,
+        "duration": 24
+      },
+      {
+        "day": 7,
+        "price": 85000,
+        "duration": 24
+      },
+      {
+        "day": 30,
+        "price": 1400000,
+        "duration": 0
+      }      
+    ]
+  },
+  {
+    "merk":"Honda",
+    "title":"Vario 150",
+    "image": "/img/vario-150.png",
+    "extend":[
+      {
+        "day": 1,
+        "price": 100000,
+        "duration": 24
+      },
+      {
+        "day": 3,
+        "price": 90000,
+        "duration": 24
+      },
+      {
+        "day": 7,
+        "price": 85000,
+        "duration": 24
+      },
+      {
+        "day": 30,
+        "price": 1400000,
+        "duration": 0
+      }      
+    ]
+  },
+  {
+    "merk":"Honda",
+    "title":"Vario 160",
+    "image": "/img/vario-160.png",
+    "extend":[
+      {
+        "day": 1,
+        "price": 140000,
+        "duration": 24
+      },
+      {
+        "day": 3,
+        "price": 90000,
+        "duration": 24
+      },
+      {
+        "day": 7,
+        "price": 85000,
+        "duration": 24
+      },
+      {
+        "day": 30,
+        "price": 1400000,
+        "duration": 0
+      }      
+    ]
+  },
+  {
+    "merk":"Honda",
+    "title":"PCX",
+    "image": "/img/pcx.png",
+    "extend":[
+      {
+        "day": 1,
+        "price": 150000,
+        "duration": 24
+      },
+      {
+        "day": 3,
+        "price": 140000,
+        "duration": 24
+      },
+      {
+        "day": 7,
+        "price": 130000,
+        "duration": 24
+      },
+      {
+        "day": 30,
+        "price": 2250000,
+        "duration": 0
+      }      
+    ]
+  },
+  {
+    "merk":"Honda",
+    "title":"CRF 150",
+    "image": "/img/crf-150.png",
+    "extend":[
+      {
+        "day": 1,
+        "price": 160000,
+        "duration": 24
+      },
+      {
+        "day": 3,
+        "price": 150000,
+        "duration": 24
+      },
+      {
+        "day": 7,
+        "price": 980000,
+        "duration": 0
+      },
+      {
+        "day": 30,
+        "price": 2550000,
+        "duration": 0
+      }      
+    ]
+  },
+  {
+    "merk":"Yamaha",
+    "title":"Fazio",
+    "image": "/img/fazio.png",
+    "extend":[
+      {
+        "day": 1,
+        "price": 125000,
+        "duration": 24
+      },
+      {
+        "day": 3,
+        "price": 115000,
+        "duration": 24
+      },
+      {
+        "day": 7,
+        "price": 100000,
+        "duration": 24
+      },
+      {
+        "day": 30,
+        "price": 2000000,
+        "duration": 0
+      }      
+    ]
+  },
+  {
+    "merk":"Yamaha",
+    "title":"XRIDE",
+    "image": "/img/xride.png",
+    "extend":[
+      {
+        "day": 1,
+        "price": 85000,
+        "duration": 24
+      },
+      {
+        "day": 3,
+        "price": 75000,
+        "duration": 24
+      },
+      {
+        "day": 7,
+        "price": 455000,
+        "duration": 0
+      },
+      {
+        "day": 30,
+        "price": 1425000,
+        "duration": 0
+      }      
+    ]
+  },
+  {
+    "merk":"Yamaha",
+    "title":"LEXI",
+    "image": "/img/lexi.png",
+    "extend":[
+      {
+        "day": 1,
+        "price": 100000,
+        "duration": 24
+      },
+      {
+        "day": 3,
+        "price": 90000,
+        "duration": 24
+      },
+      {
+        "day": 7,
+        "price": 560000,
+        "duration": 0
+      },
+      {
+        "day": 30,
+        "price": 1650000,
+        "duration": 0
+      }      
+    ]
+  },
+  {
+    "merk":"Yamaha",
+    "title":"NMAX",
+    "image": "/img/nmax.png",
+    "extend":[
+      {
+        "day": 1,
+        "price": 150000,
+        "duration": 24
+      },
+      {
+        "day": 3,
+        "price": 140000,
+        "duration": 24
+      },
+      {
+        "day": 7,
+        "price": 130000,
+        "duration": 24
+      },
+      {
+        "day": 30,
+        "price": 2250000,
+        "duration": 0
+      }      
+    ]
+  },
+  {
+    "merk":"Yamaha",
+    "title":"XMAX",
+    "image": "/img/xmax.png",
+    "extend":[
+      {
+        "day": 1,
+        "price": 400000,
+        "duration": 24
+      },
+      {
+        "day": 3,
+        "price": 375000,
+        "duration": 24
+      },
+      {
+        "day": 7,
+        "price": 350000,
+        "duration": 24
+      },
+      {
+        "day": 30,
+        "price": 4500000,
+        "duration": 0
+      }      
+    ]
+  },
+  {
+    "merk":"Vespa",
+    "title":"Vespa Matic",
+    "image": "/img/vespa-matic.png",
+    "extend":[
+      {
+        "day": 1,
+        "price": 250000,
+        "duration": 24
+      },
+      {
+        "day": 3,
+        "price": 240000,
+        "duration": 24
+      },
+      {
+        "day": 7,
+        "price": 230000,
+        "duration": 24
+      },
+      {
+        "day": 30,
+        "price": 4500000,
+        "duration": 0
+      }      
+    ]
+  }
+]
