@@ -42,7 +42,7 @@ const Card = (props) =>{
               </div>
             </div>
           </div>
-          <Link href={"https://wa.me/087839761812"} className="flex items-center space-x-2 justify-center rounded-md bg-indigo-500 px-5 py-2.5 text-center text-sm font-medium text-white hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-blue-300">
+          <Link href={"https://wa.me/6287839761812"} className="flex items-center space-x-2 justify-center rounded-md bg-indigo-500 px-5 py-2.5 text-center text-sm font-medium text-white hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-blue-300">
             <FaWhatsapp />
             <p>Sewa / Rent</p>
           </Link>
