@@ -24,10 +24,10 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Nextly - Free Nextjs & TailwindCSS Landing Page Template</title>
+        <title>Jung Transport</title>
         <meta
           name="description"
-          content="Nextly is a free landing page template built with next.js & Tailwind CSS"
+          content="Jung Transport"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>

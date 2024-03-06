@@ -9,7 +9,6 @@ import PopupWidget from "../../components/popupWidget";
 import Card from "../../components/cardMobil";
 import DataRent from "../../utils/data.json"
 import Container from "../../components/container";
-import SeeAll from "../../components/link"
 
 const RentCar = () => {
 
@@ -19,7 +18,7 @@ const RentCar = () => {
         <title>RentCar - Lombok</title>
         <meta
           name="description"
-          content="Nextly is a free landing page template built with next.js & Tailwind CSS"
+          content="Jung Transport"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -34,7 +33,6 @@ const RentCar = () => {
       </SectionTitle>
       <Container>
         <div className="flex flex-col space-y-4 justify-center items-center w-full">
-          <SeeAll/>
           <div className="grid xl:grid-cols-4 lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-8">
             {DataRent.map((item,index)=>{
               return(
